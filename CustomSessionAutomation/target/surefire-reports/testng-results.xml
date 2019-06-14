@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User has signed in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Subjects were selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[All options from the pop-up were selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Subjects Questions selection was complete]]>
+    </line>
+    <line>
+      <![CDATA[Difficulty filter was selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[All options from Difficulty filter pop-up was selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Difficulty Filter was selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Custom session is validated]]>
+    </line>
+    <line>
+      <![CDATA[Verification of Simple Selection of Questions was completed successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-06-14T05:05:42Z" name="Suite" finished-at="2019-06-14T05:06:09Z" duration-ms="27406">
+    <groups>
+    </groups>
+    <test started-at="2019-06-14T05:05:42Z" name="Custom Session Creation Test" finished-at="2019-06-14T05:06:09Z" duration-ms="27406">
+      <class name="com.test.tests.TestCases">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.test.tests.TestCases@55b699ef]" started-at="2019-06-14T00:05:42Z" name="launchBrowser" finished-at="2019-06-14T00:05:51Z" duration-ms="8657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifySimpleSelection()[pri:0, instance:com.test.tests.TestCases@55b699ef]" started-at="2019-06-14T00:05:51Z" name="verifySimpleSelection" finished-at="2019-06-14T00:06:09Z" duration-ms="18519" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User has signed in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Subjects were selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[All options from the pop-up were selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Subjects Questions selection was complete]]>
+            </line>
+            <line>
+              <![CDATA[Difficulty filter was selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[All options from Difficulty filter pop-up was selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Difficulty Filter was selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Custom session is validated]]>
+            </line>
+            <line>
+              <![CDATA[Verification of Simple Selection of Questions was completed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySimpleSelection -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:com.test.tests.TestCases@55b699ef]" started-at="2019-06-14T00:06:09Z" name="terminateBrowser" finished-at="2019-06-14T00:06:09Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.test.tests.TestCases -->
+    </test> <!-- Custom Session Creation Test -->
+  </suite> <!-- Suite -->
+</testng-results>
