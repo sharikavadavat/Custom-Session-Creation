@@ -5,6 +5,7 @@ This is a small automation script developed with Selenium WebDriver, TestNG in J
 ## Installation
 
 Clone the project from git
+
 Import it to Eclipse ( or any IDE )
 
 ## Usage
